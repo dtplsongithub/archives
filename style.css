@@ -2,3 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
+table {
+  border: none;
+}
+th, tr{
+  padding: 5px;
+}
